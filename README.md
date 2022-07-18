@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gmcquatcgis
+- 👀 I’m interested in GIS and application development.
+- 🌱 I’m currently learning about site reliability and automated testing.
+- 💞️ I’m looking to connect about small projects, web application requests, and mapping solutions.
+- 📫 Reach me at gmcquat@cgis.com or 1-343-575-7572.
